@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Bolaji Odulate 👋
 
-<!--
-**Bolaji5258/Bolaji5258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about turning raw data into actionable insights using Python, SQL, Excel and Power BI.
 
-Here are some ideas to get you started:
+🔹 Python
+🔹 SQL
+🔹 Excel
+🔹 Power BI
+🔹 Data Visualization
+🔹 Exploratory Data Analysis (EDA)
+🔹 Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+• House Price Prediction
+• Iris Data Analysis
+• Stock Price Analysis
+• Sentiment Analysis
+
+Currently learning:
+Machine Learning • Statistics • Advanced SQL
